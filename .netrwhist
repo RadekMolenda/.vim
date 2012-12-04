@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/radek/stuff/foods'
+let g:netrw_dirhist_2='/home/radek/stuff/foods/spec'
+let g:netrw_dirhist_3='/home/radek/stuff/foods/spec/integration'
+let g:netrw_dirhist_4='/home/radek/stuff/foods'
+let g:netrw_dirhist_5='/home/radek/stuff'
+let g:netrw_dirhist_6='/home/radek/stuff/foods/spec/integration'
+let g:netrw_dirhist_7='/home/radek/stuff/foods/db'
+let g:netrw_dirhist_8='/home/radek/stuff/foods'
+let g:netrw_dirhist_9='/home/radek/stuff/foods/config'
