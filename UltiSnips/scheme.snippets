@@ -1,0 +1,15 @@
+snippet lang
+#lang scheme
+
+$0
+endsnippet
+
+snippet test
+#lang scheme
+
+(require "$1")
+(require test-engine/racket-tests)
+
+$0
+(test)
+endsnippet
